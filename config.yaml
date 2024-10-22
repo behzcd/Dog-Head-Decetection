@@ -1,0 +1,8 @@
+path: C:\Users\Bekhzod\OneDrive\Ishchi stol\dog_head\data
+train: train
+val: val
+classes: 1
+
+
+
+names: ['Dog Head']
